@@ -58,16 +58,16 @@ __This is currently in reverse alphabetical order__
 |23| | | Discuss ensemble consistency. Look at spread between GCMs. Say where high and low.|
 |24| | | describe the differences between the PMIP generations by looking at the Fig. \ref{fig:tempdiff}|
 |25| | | Significance - we don't plan to calculate this statistically (not sure of robust stats methid with these small, non-normal ensembles), but by comparing images we should speculate of the importance of any differences.|
-|26| | | Describe large-scale features - ITCZ shift etc from Fig. \ref{fig:rainfall}. Compare to expected result from insolation forcings|
-|27| | | Describe dominant seasonality changes from Fig. \ref{fig:rainfall}.|
+|26| | Roberta D'Agostino | Describe large-scale features - ITCZ shift etc from Fig. \ref{fig:rainfall}. Compare to expected result from insolation forcings|
+|27| | Roberta D'Agostino | Describe dominant seasonality changes from Fig. \ref{fig:rainfall}.|
 |28| | | Discuss ensemble consistency. Look at spread between GCMs. Say where high and low.|
 |29| | | describe the differences between the PMIP generations by looking at the Fig.from Fig. \ref{fig:rainfall||
 |30| | | Significance - we don't plan to calculate this statistically (not sure of robust stats methid with these small, non-normal ensembles), but by comparing images we should speculate of the importance of any differences.|
-|31| | | Description of what the global monsoon domain actually is|
-|32| | | What do the models suggest for midHolocene changes in the global monsoon domain (Fig. \ref{fig:globalmonsoon})? |
-|33| | | Describe changes in North African monsoon domain. Explain different metrics - expansion of area, average pr rate (Fig. \ref{fig:individualmonsoons})? |
-|34| | | Describe changes in Asian monsoon domains. Compare PMIP4 to PMIP3|
-|35| | | Describe changes other monsoons (S. Amer, N. Amer, AUSMC, S. African). Compare PMIP4 to PMIP3|
+|31| | Roberta D'Agostino | Description of what the global monsoon domain actually is|
+|32| | Roberta D'Agostino| What do the models suggest for midHolocene changes in the global monsoon domain (Fig. \ref{fig:globalmonsoon})? |
+|33| | Roberta D'Agostino| Describe changes in North African monsoon domain. Explain different metrics - expansion of area, average pr rate (Fig. \ref{fig:individualmonsoons})? |
+|34| | Roberta D'Agostino| Describe changes in Asian monsoon domains. Compare PMIP4 to PMIP3|
+|35| | Roberta D'Agostino | Describe changes other monsoons (S. Amer, N. Amer, AUSMC, S. African). Compare PMIP4 to PMIP3|
 |36| Xiaoxu Shi and Gerrit Lohmann | | Brief description of (reconstructed) ocean changes at midHolocene - small variations in sea level, SSTs follow SAT (so already discussed), thoughts about AMOC reconstruction.|
 |37| Xiaoxu Shi | | Description of changes in AMOC using Fig. \ref{fig:amoc}. They seem fairly non-existent so far)|
 |38| Charlie Williams | | Sum up the results from the PMIP4 simulations. Mainly just repeat what's above.|
